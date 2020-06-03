@@ -1,8 +1,0 @@
-{
-  "name": "typescript-5i4anz",
-  "version": "0.0.0",
-  "private": true,
-  "dependencies": {
-    "rxjs": "^6.5.2"
-  }
-}
